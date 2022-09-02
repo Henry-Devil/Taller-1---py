@@ -1,0 +1,53 @@
+[
+   {
+      "Usuario": "Henry",
+      "Cantidad de nodos": "A",
+      "Valor inicial": "C",
+      "Valor final": 3,
+      "Busqueda": [
+         [
+            "A",
+            "C"
+         ],
+         [
+            "A",
+            "B",
+            "C"
+         ]
+      ]
+   },
+   {
+      "Usuario": "Henry Viloria",
+      "Cantidad de nodos": "A",
+      "Valor inicial": "B",
+      "Valor final": 3,
+      "Busqueda": [
+         [
+            "A",
+            "B"
+         ],
+         [
+            "A",
+            "C",
+            "B"
+         ]
+      ]
+   },
+   {
+      "Usuario": "Henry Viloria",
+      "Cantidad de nodos": "A",
+      "Valor inicial": "B",
+      "Valor final": 3,
+      "Busqueda": [
+         [
+            "A",
+            "B"
+         ],
+         [
+            "A",
+            "C",
+            "B"
+         ]
+      ]
+   }
+]
